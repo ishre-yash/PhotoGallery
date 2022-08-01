@@ -1,5 +1,7 @@
 # PhotoGallery
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c96096bf-f3b0-4bcf-bab1-c3456ba5dbe7/deploy-status)](https://app.netlify.com/sites/photogallery-ishreyash/deploys)
+
 env:-
 
 REACT_APP_PIXABAY_API_KEY=
